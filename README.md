@@ -1,6 +1,6 @@
 ## Checkers-AI
 
-First assingment in DD2300 - "Artificial Intelligence"
+First assignment in DD2300 - "Artificial Intelligence"
 
 Developed the player class. The rest is the skeleton needed to run the game on the command line. 
 
